@@ -1,0 +1,23 @@
+team__displayName,team__abbrName,team__logoId,team__logo,player__position,player__rosterId,player__fullName,player__yearsPro,player__injuryLength,player__portraitId,player__jerseyNum,gamesPlayed,puntsTotalBlocked,puntsTotalIn20,puntTotalLongest,puntTotalTBs,puntAvgNetYdsPerAtt,puntTotalNetYds,puntTotalAtt,puntAvgYdsPerAtt,puntTotalYds
+Bengals,CIN,1,,P,553388192,Ryan Rehkow,1,0,10223,8,1,0,4,52,1,32.43,227,7,35.29,247
+Bills,BUF,2,,P,553388948,Mitch Wishnowsky,6,0,9689,19,1,0,1,47,0,30.20,151,5,34.60,173
+Broncos,DEN,3,,P,553386533,Jeremy Crawshaw,0,0,10530,16,1,0,0,55,1,27.67,83,3,36.33,109
+Browns,CLE,4,,P,553386223,Corey Bojorquez,7,0,9325,13,1,0,1,47,0,42.83,257,6,44.67,268
+Chargers,LAC,7,,P,553388348,JK Scott,7,0,9052,16,1,0,2,50,1,39.80,199,5,45.80,229
+Cowboys,DAL,10,,P,553386065,Bryan Anger,13,0,5023,5,1,0,2,51,1,41.00,328,8,44.00,352
+Dolphins,MIA,11,,P,553386105,Jake Bailey,6,0,9373,16,1,0,1,49,0,41.40,207,5,44.40,222
+Eagles,PHI,12,,P,553388523,Ryan Stonehouse,3,0,5015,19,1,0,0,56,2,34.50,69,2,54.50,109
+Falcons,ATL,13,,P,553388105,Bradley Pinion,10,0,7281,13,1,0,0,46,0,42.00,210,5,44.00,220
+Giants,NYG,15,,P,553386910,Jamie Gillan,6,0,125,12,1,0,2,46,0,39.75,159,4,42.75,171
+Jaguars,JAX,16,,P,553386506,Logan Cooke,7,0,9331,9,1,0,0,44,0,35.50,213,6,40.83,245
+Jets,NYJ,17,,P,553386330,Jack Browning,1,0,0,17,1,0,0,45,0,41.67,125,3,43.67,131
+Packers,GB,19,,P,553388845,Daniel Whelan,2,0,5263,19,1,0,0,48,0,35.80,179,5,39.80,199
+Panthers,CAR,20,,P,553387662,Sam Martin,12,0,6649,6,1,0,4,46,0,38.50,308,8,40.12,321
+Patriots,NE,21,,P,553386124,Bryce Baringer,2,0,2645,17,1,0,0,51,0,40.75,163,4,45.50,182
+Raiders,LV,22,,P,553386479,A.J. Cole,6,0,220,6,1,0,2,49,0,41.25,165,4,46.75,187
+Rams,LAR,23,,P,553386755,Ethan Evans,2,0,3146,42,1,0,1,56,1,36.50,219,6,40.33,242
+Ravens,BAL,24,,P,553388524,Jordan Stout,3,0,1957,11,1,0,0,47,0,42.75,171,4,44.25,177
+Saints,NO,26,,P,553386361,James Burnip,0,0,10512,46,1,0,1,43,0,33.00,198,6,36.83,221
+Seahawks,SEA,27,,P,553386638,Michael Dickson,7,0,8870,4,1,0,1,45,0,38.67,116,3,43.33,130
+Steelers,PIT,28,,P,553388759,Corliss Waitman,5,0,2658,3,1,1,0,54,1,35.80,358,10,40.50,405
+Titans,TEN,29,,P,553387102,Johnny Hekker,13,0,5860,3,1,0,0,44,1,33.00,99,3,43.33,130

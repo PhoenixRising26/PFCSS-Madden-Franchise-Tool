@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="PFC-SS">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="CORY-DESKTOP\SQLEXPRESS:CORY-DESKTOP\CoryW">
+          <Created>2025-10-15T17:30:41.1790103-04:00</Created>
+          <Type>SQL</Type>
+          <Server>CORY-DESKTOP\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Import All Game Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Import All Game Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Import All Weekly Stats.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Import All Weekly Stats.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Import Player Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Import Player Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Master Update.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Master Update.sql</FullPath>
+        </FileNode>
+        <FileNode Name="My Team Contract Data.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>My Team Contract Data.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Slider Review.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Slider Review.sql</FullPath>
+        </FileNode>
+        <FileNode Name="View When Tables Last Updated.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>View When Tables Last Updated.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items>
+        <FileNode Name="_CSV_LOCATIONS.txt">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>_CSV_LOCATIONS.txt</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

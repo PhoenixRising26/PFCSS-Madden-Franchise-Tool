@@ -1,0 +1,27 @@
+team__displayName,team__abbrName,team__logoId,team__logo,player__position,player__rosterId,player__fullName,player__yearsPro,player__injuryLength,player__portraitId,player__jerseyNum,gamesPlayed,fantasy_points,passTotalAtt,passTotalComp,passAvgCompPct,passTotalInts,passTotalLongest,passerAvgRating,passTotalSacks,passTotalTDs,passTotalYds,passAvgYdsPerAtt,passAvgYdsPerGame
+Bengals,CIN,1,,QB,553386364,Joe Burrow,5,0,198,9,1,0.60,37,30,81.08,0,52,111.90,2,2,242,6.54,314.17
+Bills,BUF,2,,QB,553386033,Josh Allen,7,0,8800,17,1,0.40,41,26,63.41,3,73,72.40,2,2,312,7.61,263.67
+Broncos,DEN,3,,QB,553387936,Bo Nix,1,0,10195,10,1,5.10,35,23,65.71,0,34,104.20,1,2,238,6.80,187.50
+Browns,CLE,4,,QB,553388636,Dorian Thompson-Robinson,2,0,2616,14,1,3.10,28,20,71.43,2,46,71.20,5,1,185,6.61,223.17
+Chargers,LAC,7,,QB,553387119,Justin Herbert,5,0,346,10,1,-0.80,38,28,73.68,1,27,94.70,7,2,225,5.92,229.17
+Cowboys,DAL,10,,QB,553388133,Dak Prescott,9,0,8179,4,1,3.40,33,20,60.61,0,21,68.60,0,0,127,3.85,245.83
+Dolphins,MIA,11,,HB,553385991,De'Von Achane,2,0,676,28,1,2.10,0,1,0.00,0,0,0.00,0,0,0,0.00,0.00
+Dolphins,MIA,11,,QB,553388565,Tua Tagovailoa,5,0,600,1,1,14.50,29,11,37.93,1,54,41.70,10,0,156,5.38,169.17
+Eagles,PHI,12,,QB,553387229,Jalen Hurts,5,0,704,1,1,0.10,35,26,74.29,0,54,119.20,1,2,304,8.69,200.50
+Falcons,ATL,13,,QB,553388068,Michael Penix Jr,1,0,10207,9,1,13.20,33,23,69.70,0,34,97.70,7,1,218,6.61,207.80
+Giants,NYG,15,,QB,553386569,Jaxson Dart,0,0,10533,6,1,10.30,25,17,68.00,0,40,97.70,7,0,234,9.36,263.83
+Jaguars,JAX,16,,HB,553386749,Travis Etienne Jr,4,0,1365,1,1,1.20,0,1,0.00,0,0,0.00,0,0,0,0.00,0.00
+Jaguars,JAX,16,,QB,553387544,Trevor Lawrence,4,0,1372,16,1,14.90,20,12,60.00,0,26,74.50,5,0,108,5.40,204.67
+Jets,NYJ,17,,QB,553388170,Spencer Rattler,1,0,10220,18,1,3.20,35,21,60.00,2,24,65.10,7,2,150,4.29,150.00
+Packers,GB,19,,QB,553387611,Jordan Love,5,0,433,10,1,-0.20,21,15,71.43,1,41,123.60,0,3,213,10.14,229.20
+Panthers,CAR,20,,WR,553387188,Jimmy Horn Jr,0,0,10592,15,1,6.50,0,1,0.00,0,0,0.00,0,0,0,0.00,0.00
+Panthers,CAR,20,,QB,553389004,Bryce Young,2,0,2638,9,1,3.10,42,27,64.29,0,40,80.80,5,0,254,6.05,243.17
+Patriots,NE,21,,QB,553387686,Drake Maye,1,0,10165,10,1,5.00,30,19,63.33,1,41,117.00,3,4,263,8.77,310.00
+Patriots,NE,21,,TE,553388528,Brenton Strange,2,0,2415,85,1,3.60,1,0,0.00,0,0,39.50,0,0,0,0.00,0.00
+Raiders,LV,22,,QB,553388437,Geno Smith,12,0,6078,7,1,1.00,36,24,66.67,0,21,87.80,2,1,181,5.03,218.00
+Rams,LAR,23,,QB,553388491,Matthew Stafford,16,0,6302,9,1,0.60,47,31,65.96,0,75,106.10,1,3,314,6.68,259.50
+Ravens,BAL,24,,QB,553387273,Lamar Jackson,7,0,8940,8,1,10.00,30,19,63.33,0,74,94.90,0,1,209,6.97,222.83
+Saints,NO,26,,QB,553388215,Anthony Richardson Sr,2,0,2609,5,1,11.10,22,16,72.73,0,40,120.40,6,1,225,10.23,220.67
+Seahawks,SEA,27,,QB,553387807,Jalen Milroe,0,0,10664,6,1,10.50,22,12,54.55,1,19,48.40,0,0,105,4.77,199.33
+Steelers,PIT,28,,QB,553388266,Aaron Rodgers,20,0,6299,8,1,-0.20,42,28,66.67,1,29,77.50,1,1,221,5.26,266.00
+Titans,TEN,29,,QB,553388785,Cam Ward,0,0,10768,1,1,4.60,38,28,73.68,2,25,76.70,1,1,241,6.34,205.00
