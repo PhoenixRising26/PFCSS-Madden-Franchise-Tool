@@ -8,4 +8,10 @@
    
    # Ignore SSMS temp files
    *.bak
+
+   # Ignore .vs temp files
+ 
+.vs/ 
+
 ```
+.vs/ 
