@@ -10,8 +10,7 @@
    *.bak
 
    # Ignore .vs temp files
- 
-.vs/ 
-
-```
-.vs/ 
+   .vs/ 
+   
+   # Ignore CSV Location text files
+   _CSV_LOCATIONS.txt
