@@ -59,4 +59,4 @@ SELECT
 		WHEN 'TRUE' THEN 'Yes'
 	END AS 'Practice Squad?'
 FROM playerData
-WHERE team = @MyTeam AND lastUpdated = (SELECT MAX(lastUpdated) FROM playerData);
+WHERE team = @MyTeam AND lastUpdated = (SELECT MAX(lastUpdated) FROM playerData) AND isOnPracticeSquad = 'FALSE';
