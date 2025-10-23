@@ -57,6 +57,12 @@
           <AssociatedConnUserName />
           <FullPath>Slider Review.sql</FullPath>
         </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
+        </FileNode>
         <FileNode Name="View When Tables Last Updated.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
