@@ -1,35 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "S:\\Documents\\Gaming\\Madden\\Franchise\\PFCSS SQL Solution\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{42A6C298-0098-E323-04C1-B0DE7B5BDD25}|PFC-SS.ssmssqlproj|S:\\Documents\\Gaming\\Madden\\Franchise\\PFCSS SQL Solution\\View When Tables Last Updated.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{42A6C298-0098-E323-04C1-B0DE7B5BDD25}|PFC-SS.ssmssqlproj|solutionrelative:View When Tables Last Updated.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "View When Tables Last Updated.sql - CORY-DESKTOP\\SQLEXPRESS.PFCSS (CORY-DESKTOP\\CoryW (51))",
-              "DocumentMoniker": "S:\\Documents\\Gaming\\Madden\\Franchise\\PFCSS SQL Solution\\View When Tables Last Updated.sql",
-              "RelativeDocumentMoniker": "View When Tables Last Updated.sql",
-              "ToolTip": "View When Tables Last Updated.sql - CORY-DESKTOP\\SQLEXPRESS.PFCSS (CORY-DESKTOP\\CoryW (51))",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-10-23T21:29:24.382Z",
-              "EditorCaption": " - CORY-DESKTOP\\SQLEXPRESS.PFCSS (CORY-DESKTOP\\CoryW (51))"
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
