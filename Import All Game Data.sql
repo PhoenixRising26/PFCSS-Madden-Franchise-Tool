@@ -7,5 +7,5 @@ EXEC ImportGameData
 ----------------------------------
 -- UPDATE THE SEASON AND WEEK DATA
 @Season = 2025, 
-@Week = 4;
+@Week = 11;
 ----------------------------------

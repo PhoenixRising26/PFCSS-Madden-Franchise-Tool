@@ -9,7 +9,7 @@
 USE PFCSS;
 
 DECLARE @Season INT = 2025;
-DECLARE @Week INT = 7;
+DECLARE @Week INT = 11;
 
 EXEC ImportPlayerData @Season = @Season, @Week = @Week;
 EXEC ImportGameData @Season = @Season, @Week = @Week;

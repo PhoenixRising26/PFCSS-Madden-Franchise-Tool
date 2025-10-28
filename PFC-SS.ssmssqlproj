@@ -21,6 +21,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="gamesSimmedByTeam.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>gamesSimmedByTeam.sql</FullPath>
+        </FileNode>
         <FileNode Name="Import All Game Data.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
