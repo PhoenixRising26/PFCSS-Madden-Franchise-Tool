@@ -57,6 +57,12 @@
           <AssociatedConnUserName />
           <FullPath>My Team Contract Data.sql</FullPath>
         </FileNode>
+        <FileNode Name="Offensive and Defensive Dev Traits By Team.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Offensive and Defensive Dev Traits By Team.sql</FullPath>
+        </FileNode>
         <FileNode Name="Slider Review.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:CORY-DESKTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>CORY-DESKTOP\SQLEXPRESS</AssociatedConnSrvName>
