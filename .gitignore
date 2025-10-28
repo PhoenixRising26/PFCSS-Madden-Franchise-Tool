@@ -14,3 +14,6 @@
    
    # Ignore CSV Location text files
    _CSV_LOCATIONS.txt
+.vs/ 
+*.suo 
+*.user 
